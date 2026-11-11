@@ -1,6 +1,6 @@
 # Jackson Toro
 
-Automotive service technician in Dawsonville, Georgia. I also write Python tools, including [BotKit](https://github.com/jacksontoro60-arch/BotKit), a modular discord.py bot kit.
+Automotive service technician at Primary Auto Group in Dawsonville, Georgia. I also write Python tools, including [BotKit](https://github.com/jacksontoro60-arch/BotKit), a modular discord.py bot kit with a setup wizard and a multi-client host supervisor.
 
 [LinkedIn](https://www.linkedin.com/in/jackson-toro-2b7bab380/)
 
